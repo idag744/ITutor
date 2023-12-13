@@ -28,6 +28,7 @@ struct SignUpPage: View {
                 }
             }
         } // end navigationview
+        
         .navigationTitle("Login Form")
     }
 }
